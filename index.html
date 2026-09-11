@@ -1,0 +1,264 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="description" content="MILD is a manipulation-interface localization dataset and benchmark for robot teaching and replay-oriented localization.">
+  <title>MILD | Manipulation-Interface Localization Dataset</title>
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+  <header class="hero">
+    <nav class="nav">
+      <a class="brand" href="#top" aria-label="MILD home">MILD</a>
+      <div class="nav-links">
+        <a href="#dataset">Dataset</a>
+        <a href="#visualization">Visualization</a>
+        <a href="#benchmark">Benchmark</a>
+        <a href="#method">AprilVINS</a>
+        <a href="#release">Release</a>
+      </div>
+    </nav>
+
+    <section id="top" class="hero-grid">
+      <div class="hero-copy">
+        <p class="eyebrow">Manipulation-interface localization for robot teaching</p>
+        <h1>MILD: A Dataset and Benchmark for Replay-Oriented Localization</h1>
+        <p class="lead">
+          MILD studies localization in close-range robot teaching, where the
+          tracked trajectory is used as the downstream replay target rather than
+          only as a navigation path.
+        </p>
+        <div class="hero-actions">
+          <a class="button primary" href="#visualization">Explore visualization</a>
+          <a class="button secondary" href="#benchmark">View benchmark focus</a>
+        </div>
+      </div>
+      <figure class="hero-media">
+        <img src="assets/images/figures/mild_overview.jpg" alt="MILD task, sensor, and scene overview">
+        <figcaption>Real-world manipulation tasks, sensor routes, scene conditions, and replay-oriented evaluation assets.</figcaption>
+      </figure>
+    </section>
+  </header>
+
+  <main>
+    <section class="section stats" aria-label="Dataset summary">
+      <div class="stat-card">
+        <strong>15</strong>
+        <span>real-world task scenarios</span>
+      </div>
+      <div class="stat-card">
+        <strong>6</strong>
+        <span>scene-condition families</span>
+      </div>
+      <div class="stat-card">
+        <strong>2</strong>
+        <span>sensor routes</span>
+      </div>
+      <div class="stat-card">
+        <strong>67</strong>
+        <span>Insta360 X5 candidate sequences</span>
+      </div>
+    </section>
+
+    <section id="dataset" class="section two-column">
+      <div>
+        <p class="eyebrow">Dataset</p>
+        <h2>Manipulation sequences with task-level replay structure</h2>
+        <p>
+          MILD focuses on UMI-style robot teaching at tabletop scale. The real-world
+          subset includes free-space trajectories, bookshelf retrieval, box
+          interaction, pick-and-place tasks, and wiping tasks. Each task is recorded
+          under controlled scene conditions such as plain table, tablecloth,
+          AprilTag, and ArUco variants.
+        </p>
+        <p>
+          The dataset packages sensor streams, robot end-effector reference sidecars,
+          gripper-event timing, and calibration assets so that localization output can
+          be compared against a replay-relevant target trajectory.
+        </p>
+      </div>
+      <div class="feature-list">
+        <div>
+          <h3>Sensor routes</h3>
+          <p>Insta360 X5 panoramic sensing and Insight9 RGB-D sensing near the gripper.</p>
+        </div>
+        <div>
+          <h3>Scene variants</h3>
+          <p>Texture, occlusion, and marker-layout changes for controlled localization studies.</p>
+        </div>
+        <div>
+          <h3>Replay target</h3>
+          <p>Robot end-effector trajectories and gripper states support replay-aware analysis.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="visualization" class="section dark">
+      <div class="section-heading">
+        <p class="eyebrow">Dataset Visualization</p>
+        <h2>Task gallery across manipulation scenes</h2>
+        <p>
+          A compact view of the real-world task space. Each tile corresponds to a
+          manipulation task family and can be replaced by the corresponding task video
+          preview in later releases.
+        </p>
+      </div>
+      <div class="task-grid">
+        <article class="task-card">
+          <img src="assets/images/tasks/analemma-02.jpg" alt="Analemma 02 task scene">
+          <span>Analemma 02</span>
+        </article>
+        <article class="task-card">
+          <img src="assets/images/tasks/circular-02.jpg" alt="Circular 02 task scene">
+          <span>Circular 02</span>
+        </article>
+        <article class="task-card">
+          <img src="assets/images/tasks/bookshelf-01.jpg" alt="Bookshelf 01 task scene">
+          <span>Bookshelf 01</span>
+        </article>
+        <article class="task-card">
+          <img src="assets/images/tasks/bookshelf-02.jpg" alt="Bookshelf 02 task scene">
+          <span>Bookshelf 02</span>
+        </article>
+        <article class="task-card">
+          <img src="assets/images/tasks/box-01.jpg" alt="Box 01 task scene">
+          <span>Box 01</span>
+        </article>
+        <article class="task-card">
+          <img src="assets/images/tasks/box-02.jpg" alt="Box 02 task scene">
+          <span>Box 02</span>
+        </article>
+        <article class="task-card">
+          <img src="assets/images/tasks/pick-place-01.jpg" alt="Pick-and-place 01 task scene">
+          <span>Pick-and-place 01</span>
+        </article>
+        <article class="task-card">
+          <img src="assets/images/tasks/pick-place-02.jpg" alt="Pick-and-place 02 task scene">
+          <span>Pick-and-place 02</span>
+        </article>
+        <article class="task-card">
+          <img src="assets/images/tasks/pick-place-03.jpg" alt="Pick-and-place 03 task scene">
+          <span>Pick-and-place 03</span>
+        </article>
+        <article class="task-card">
+          <img src="assets/images/tasks/pick-place-04.jpg" alt="Pick-and-place 04 task scene">
+          <span>Pick-and-place 04</span>
+        </article>
+        <article class="task-card">
+          <img src="assets/images/tasks/pick-place-05.jpg" alt="Pick-and-place 05 task scene">
+          <span>Pick-and-place 05</span>
+        </article>
+        <article class="task-card">
+          <img src="assets/images/tasks/pick-place-06.jpg" alt="Pick-and-place 06 task scene">
+          <span>Pick-and-place 06</span>
+        </article>
+        <article class="task-card">
+          <img src="assets/images/tasks/wiping-01.jpg" alt="Wiping 01 task scene">
+          <span>Wiping 01</span>
+        </article>
+        <article class="task-card">
+          <img src="assets/images/tasks/wiping-02.jpg" alt="Wiping 02 task scene">
+          <span>Wiping 02</span>
+        </article>
+      </div>
+    </section>
+
+    <section id="benchmark" class="section">
+      <div class="section-heading">
+        <p class="eyebrow">Benchmark</p>
+        <h2>Localization difficulty is shaped by task motion and scene condition</h2>
+        <p>
+          MILD compares tag-free, tag-based, and tag-assisted localization routes
+          using APE RMSE and trajectory completion. The benchmark highlights that
+          tabletop manipulation introduces failures not visible in standard navigation
+          datasets: hand and object occlusion, close-range viewpoint changes, and
+          replay-sensitive endpoint motion.
+        </p>
+      </div>
+      <div class="figure-grid">
+        <figure class="figure-card">
+          <img src="assets/images/figures/task_difficulty.jpg" alt="Task difficulty map">
+          <figcaption>Task difficulty map from localization error and time completion.</figcaption>
+        </figure>
+        <figure class="figure-card">
+          <img src="assets/images/figures/trajectory_comparison.jpg" alt="Trajectory comparison">
+          <figcaption>Trajectory comparison between practical routes and AprilVINS.</figcaption>
+        </figure>
+        <figure class="figure-card">
+          <img src="assets/images/figures/practical_routes.jpg" alt="Practical teaching route comparison">
+          <figcaption>Practical teaching-route comparison with controller and SDK routes.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section id="method" class="section two-column">
+      <div>
+        <p class="eyebrow">AprilVINS</p>
+        <h2>Tag-assisted visual-inertial localization without a surveyed tag-map prior</h2>
+        <p>
+          AprilVINS lifts fisheye tag observations to unit-sphere rays, estimates a
+          sequence-local tag layout, admits consistent tag-pose priors into a fixed-lag
+          VIO optimization, and promotes only validated trajectory outputs.
+        </p>
+        <p>
+          This design targets manipulation teaching routes where a small number of
+          tags can stabilize trajectory estimation without requiring a pre-surveyed
+          global marker map.
+        </p>
+      </div>
+      <figure class="method-figure">
+        <img src="assets/images/figures/aprilvins_pipeline.jpg" alt="AprilVINS pipeline">
+        <figcaption>AprilVINS data flow with unit-sphere tag geometry, prior admission, and output promotion.</figcaption>
+      </figure>
+    </section>
+
+    <section class="section two-column">
+      <figure class="method-figure">
+        <img src="assets/images/figures/dataset_pipeline.jpg" alt="MILD data collection pipeline">
+        <figcaption>Record/replay-oriented real-world data collection pipeline.</figcaption>
+      </figure>
+      <div>
+        <p class="eyebrow">Collection pipeline</p>
+        <h2>From teleoperation to replay-aligned reference trajectories</h2>
+        <p>
+          Demonstrations are recorded with time-aligned robot states, end-effector
+          poses, gripper events, and sensor streams. The same task trajectory is
+          replayed under scene variants to expose how environment changes affect
+          localization while preserving the manipulation intent.
+        </p>
+      </div>
+    </section>
+
+    <section id="release" class="section release">
+      <p class="eyebrow">Release</p>
+      <h2>Anonymous review release page</h2>
+      <p>
+        This page is a first anonymous project-page draft. Dataset download, code,
+        and paper links will be updated when the review-safe release package is
+        finalized.
+      </p>
+      <div class="release-grid">
+        <div>
+          <strong>Paper</strong>
+          <span>Coming soon</span>
+        </div>
+        <div>
+          <strong>Dataset</strong>
+          <span>Coming soon</span>
+        </div>
+        <div>
+          <strong>Code</strong>
+          <span>Coming soon</span>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <span>MILD project page</span>
+    <span>Anonymous review version</span>
+  </footer>
+</body>
+</html>

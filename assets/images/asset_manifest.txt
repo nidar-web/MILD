@@ -1,0 +1,23 @@
+Anonymized website image assets generated from local MILD paper/data figures.
+EXIF metadata stripped by PIL re-encoding.
+
+figures/mild_overview.jpg	138940
+figures/aprilvins_pipeline.jpg	238282
+figures/task_difficulty.jpg	84571
+figures/trajectory_comparison.jpg	169117
+figures/practical_routes.jpg	121484
+figures/dataset_pipeline.jpg	260726
+tasks/analemma-02.jpg	Analemma 02	48153
+tasks/circular-02.jpg	Circular 02	19135
+tasks/bookshelf-01.jpg	Bookshelf 01	63973
+tasks/bookshelf-02.jpg	Bookshelf 02	70558
+tasks/box-01.jpg	Box 01	39334
+tasks/box-02.jpg	Box 02	26536
+tasks/pick-place-01.jpg	Pick-and-place 01	29194
+tasks/pick-place-02.jpg	Pick-and-place 02	17905
+tasks/pick-place-03.jpg	Pick-and-place 03	26496
+tasks/pick-place-04.jpg	Pick-and-place 04	58878
+tasks/pick-place-05.jpg	Pick-and-place 05	59195
+tasks/pick-place-06.jpg	Pick-and-place 06	20018
+tasks/wiping-01.jpg	Wiping 01	43281
+tasks/wiping-02.jpg	Wiping 02	32542
