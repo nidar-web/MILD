@@ -21,6 +21,7 @@ VIDEO_ROOT = SITE_ROOT / "assets" / "videos" / "gallery"
 POSTER_ROOT = SITE_ROOT / "assets" / "posters" / "gallery"
 MANIFEST_PATH = SITE_ROOT / "assets" / "videos" / "gallery_manifest.json"
 CLIP_SECONDS = 10.0
+FORCE = os.environ.get("FORCE", "").lower() in {"1", "true", "yes"}
 
 TASK_LABELS = {
     "analemma_2_t": "Analemma 02",
@@ -69,13 +70,15 @@ SENSORS = {
         "slug": "insta360-x5",
         "label": "Insta360 X5",
         "stream": "front / back fisheye",
-        "scale": "960:-2",
+        "video_vf": "scale=960:-2,fps=24",
+        "poster_vf": "scale=960:-2",
     },
     "insight9_left_right_sync.mp4": {
         "slug": "insight9",
         "label": "Insight9",
         "stream": "left / right gray",
-        "scale": "816:-2",
+        "video_vf": "scale=816:-2,hflip,vflip,fps=24",
+        "poster_vf": "scale=816:-2,hflip,vflip",
     },
 }
 
@@ -126,7 +129,7 @@ def build_record(src: Path) -> dict:
     out_mp4.parent.mkdir(parents=True, exist_ok=True)
     out_jpg.parent.mkdir(parents=True, exist_ok=True)
 
-    if not out_mp4.exists() or out_mp4.stat().st_size == 0:
+    if FORCE or not out_mp4.exists() or out_mp4.stat().st_size == 0:
         run(
             [
                 "ffmpeg",
@@ -138,7 +141,7 @@ def build_record(src: Path) -> dict:
                 "-i",
                 str(src),
                 "-vf",
-                f"scale={sensor_info['scale']},fps=24",
+                sensor_info["video_vf"],
                 "-an",
                 "-c:v",
                 "libx264",
@@ -154,7 +157,7 @@ def build_record(src: Path) -> dict:
             ]
         )
 
-    if not out_jpg.exists() or out_jpg.stat().st_size == 0:
+    if FORCE or not out_jpg.exists() or out_jpg.stat().st_size == 0:
         run(
             [
                 "ffmpeg",
@@ -166,7 +169,7 @@ def build_record(src: Path) -> dict:
                 "-frames:v",
                 "1",
                 "-vf",
-                f"scale={sensor_info['scale']}",
+                sensor_info["poster_vf"],
                 "-q:v",
                 "4",
                 str(out_jpg),
