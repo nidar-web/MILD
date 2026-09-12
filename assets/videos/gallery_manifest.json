@@ -12,7 +12,8 @@
     "source_path": "analemma_2_t/table/insight9_left_right_sync.mp4",
     "video": "assets/videos/gallery/analemma-2-t__table__insight9.mp4",
     "poster": "assets/posters/gallery/analemma-2-t__table__insight9.jpg",
-    "size_bytes": 720407
+    "size_bytes": 668930,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "analemma_2_t",
@@ -27,7 +28,8 @@
     "source_path": "analemma_2_t/table/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/analemma-2-t__table__insta360-x5.mp4",
     "poster": "assets/posters/gallery/analemma-2-t__table__insta360-x5.jpg",
-    "size_bytes": 841352
+    "size_bytes": 773816,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "analemma_2_t",
@@ -42,7 +44,8 @@
     "source_path": "analemma_2_t/tablecloth/insight9_left_right_sync.mp4",
     "video": "assets/videos/gallery/analemma-2-t__tablecloth__insight9.mp4",
     "poster": "assets/posters/gallery/analemma-2-t__tablecloth__insight9.jpg",
-    "size_bytes": 817299
+    "size_bytes": 791437,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "analemma_2_t",
@@ -57,7 +60,8 @@
     "source_path": "analemma_2_t/tablecloth/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/analemma-2-t__tablecloth__insta360-x5.mp4",
     "poster": "assets/posters/gallery/analemma-2-t__tablecloth__insta360-x5.jpg",
-    "size_bytes": 1083097
+    "size_bytes": 1058081,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "analemma_2_t",
@@ -72,7 +76,8 @@
     "source_path": "analemma_2_t/apriltag_2/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/analemma-2-t__apriltag-2__insta360-x5.mp4",
     "poster": "assets/posters/gallery/analemma-2-t__apriltag-2__insta360-x5.jpg",
-    "size_bytes": 848968
+    "size_bytes": 826541,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "analemma_2_t",
@@ -87,7 +92,8 @@
     "source_path": "analemma_2_t/apriltag_4/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/analemma-2-t__apriltag-4__insta360-x5.mp4",
     "poster": "assets/posters/gallery/analemma-2-t__apriltag-4__insta360-x5.jpg",
-    "size_bytes": 869139
+    "size_bytes": 843757,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "analemma_2_t",
@@ -102,7 +108,8 @@
     "source_path": "analemma_2_t/aruco_2/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/analemma-2-t__aruco-2__insta360-x5.mp4",
     "poster": "assets/posters/gallery/analemma-2-t__aruco-2__insta360-x5.jpg",
-    "size_bytes": 842512
+    "size_bytes": 820552,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "analemma_2_t",
@@ -117,7 +124,8 @@
     "source_path": "analemma_2_t/aruco_4/insight9_left_right_sync.mp4",
     "video": "assets/videos/gallery/analemma-2-t__aruco-4__insight9.mp4",
     "poster": "assets/posters/gallery/analemma-2-t__aruco-4__insight9.jpg",
-    "size_bytes": 594007
+    "size_bytes": 561405,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "analemma_2_t",
@@ -132,7 +140,8 @@
     "source_path": "analemma_2_t/aruco_4/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/analemma-2-t__aruco-4__insta360-x5.mp4",
     "poster": "assets/posters/gallery/analemma-2-t__aruco-4__insta360-x5.jpg",
-    "size_bytes": 856272
+    "size_bytes": 828806,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "circular_2_t",
@@ -147,7 +156,8 @@
     "source_path": "circular_2_t/table/insight9_left_right_sync.mp4",
     "video": "assets/videos/gallery/circular-2-t__table__insight9.mp4",
     "poster": "assets/posters/gallery/circular-2-t__table__insight9.jpg",
-    "size_bytes": 616646
+    "size_bytes": 589818,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "circular_2_t",
@@ -162,7 +172,8 @@
     "source_path": "circular_2_t/table/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/circular-2-t__table__insta360-x5.mp4",
     "poster": "assets/posters/gallery/circular-2-t__table__insta360-x5.jpg",
-    "size_bytes": 836084
+    "size_bytes": 786376,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "circular_2_t",
@@ -177,7 +188,8 @@
     "source_path": "circular_2_t/tablecloth/insight9_left_right_sync.mp4",
     "video": "assets/videos/gallery/circular-2-t__tablecloth__insight9.mp4",
     "poster": "assets/posters/gallery/circular-2-t__tablecloth__insight9.jpg",
-    "size_bytes": 844096
+    "size_bytes": 811545,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "circular_2_t",
@@ -192,7 +204,8 @@
     "source_path": "circular_2_t/tablecloth/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/circular-2-t__tablecloth__insta360-x5.mp4",
     "poster": "assets/posters/gallery/circular-2-t__tablecloth__insta360-x5.jpg",
-    "size_bytes": 1063242
+    "size_bytes": 1066877,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "circular_2_t",
@@ -207,7 +220,8 @@
     "source_path": "circular_2_t/apriltag_2/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/circular-2-t__apriltag-2__insta360-x5.mp4",
     "poster": "assets/posters/gallery/circular-2-t__apriltag-2__insta360-x5.jpg",
-    "size_bytes": 861843
+    "size_bytes": 812754,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "circular_2_t",
@@ -222,7 +236,8 @@
     "source_path": "circular_2_t/apriltag_4/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/circular-2-t__apriltag-4__insta360-x5.mp4",
     "poster": "assets/posters/gallery/circular-2-t__apriltag-4__insta360-x5.jpg",
-    "size_bytes": 898568
+    "size_bytes": 861767,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "circular_2_t",
@@ -237,7 +252,8 @@
     "source_path": "circular_2_t/aruco_2/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/circular-2-t__aruco-2__insta360-x5.mp4",
     "poster": "assets/posters/gallery/circular-2-t__aruco-2__insta360-x5.jpg",
-    "size_bytes": 854017
+    "size_bytes": 807460,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "circular_2_t",
@@ -252,7 +268,8 @@
     "source_path": "circular_2_t/aruco_4/insight9_left_right_sync.mp4",
     "video": "assets/videos/gallery/circular-2-t__aruco-4__insight9.mp4",
     "poster": "assets/posters/gallery/circular-2-t__aruco-4__insight9.jpg",
-    "size_bytes": 611780
+    "size_bytes": 588772,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "circular_2_t",
@@ -267,7 +284,8 @@
     "source_path": "circular_2_t/aruco_4/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/circular-2-t__aruco-4__insta360-x5.mp4",
     "poster": "assets/posters/gallery/circular-2-t__aruco-4__insta360-x5.jpg",
-    "size_bytes": 883337
+    "size_bytes": 828700,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "zigzag_2_t",
@@ -282,7 +300,8 @@
     "source_path": "zigzag_2_t/table/insight9_left_right_sync.mp4",
     "video": "assets/videos/gallery/zigzag-2-t__table__insight9.mp4",
     "poster": "assets/posters/gallery/zigzag-2-t__table__insight9.jpg",
-    "size_bytes": 287289
+    "size_bytes": 280949,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "zigzag_2_t",
@@ -297,7 +316,8 @@
     "source_path": "zigzag_2_t/table/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/zigzag-2-t__table__insta360-x5.mp4",
     "poster": "assets/posters/gallery/zigzag-2-t__table__insta360-x5.jpg",
-    "size_bytes": 402167
+    "size_bytes": 408808,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "zigzag_2_t",
@@ -312,7 +332,8 @@
     "source_path": "zigzag_2_t/tablecloth/insight9_left_right_sync.mp4",
     "video": "assets/videos/gallery/zigzag-2-t__tablecloth__insight9.mp4",
     "poster": "assets/posters/gallery/zigzag-2-t__tablecloth__insight9.jpg",
-    "size_bytes": 527030
+    "size_bytes": 493775,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "zigzag_2_t",
@@ -327,7 +348,8 @@
     "source_path": "zigzag_2_t/tablecloth/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/zigzag-2-t__tablecloth__insta360-x5.mp4",
     "poster": "assets/posters/gallery/zigzag-2-t__tablecloth__insta360-x5.jpg",
-    "size_bytes": 637346
+    "size_bytes": 656666,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "zigzag_2_t",
@@ -342,7 +364,8 @@
     "source_path": "zigzag_2_t/apriltag_2/insight9_left_right_sync.mp4",
     "video": "assets/videos/gallery/zigzag-2-t__apriltag-2__insight9.mp4",
     "poster": "assets/posters/gallery/zigzag-2-t__apriltag-2__insight9.jpg",
-    "size_bytes": 390308
+    "size_bytes": 370603,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "zigzag_2_t",
@@ -357,7 +380,8 @@
     "source_path": "zigzag_2_t/apriltag_2/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/zigzag-2-t__apriltag-2__insta360-x5.mp4",
     "poster": "assets/posters/gallery/zigzag-2-t__apriltag-2__insta360-x5.jpg",
-    "size_bytes": 429082
+    "size_bytes": 432441,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "zigzag_2_t",
@@ -372,7 +396,8 @@
     "source_path": "zigzag_2_t/apriltag_4/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/zigzag-2-t__apriltag-4__insta360-x5.mp4",
     "poster": "assets/posters/gallery/zigzag-2-t__apriltag-4__insta360-x5.jpg",
-    "size_bytes": 440259
+    "size_bytes": 444702,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "zigzag_2_t",
@@ -387,7 +412,8 @@
     "source_path": "zigzag_2_t/aruco_2/insight9_left_right_sync.mp4",
     "video": "assets/videos/gallery/zigzag-2-t__aruco-2__insight9.mp4",
     "poster": "assets/posters/gallery/zigzag-2-t__aruco-2__insight9.jpg",
-    "size_bytes": 283667
+    "size_bytes": 275399,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "zigzag_2_t",
@@ -402,7 +428,8 @@
     "source_path": "zigzag_2_t/aruco_2/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/zigzag-2-t__aruco-2__insta360-x5.mp4",
     "poster": "assets/posters/gallery/zigzag-2-t__aruco-2__insta360-x5.jpg",
-    "size_bytes": 426952
+    "size_bytes": 450262,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "zigzag_2_t",
@@ -417,7 +444,8 @@
     "source_path": "zigzag_2_t/aruco_4/insight9_left_right_sync.mp4",
     "video": "assets/videos/gallery/zigzag-2-t__aruco-4__insight9.mp4",
     "poster": "assets/posters/gallery/zigzag-2-t__aruco-4__insight9.jpg",
-    "size_bytes": 313776
+    "size_bytes": 317129,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "zigzag_2_t",
@@ -432,7 +460,8 @@
     "source_path": "zigzag_2_t/aruco_4/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/zigzag-2-t__aruco-4__insta360-x5.mp4",
     "poster": "assets/posters/gallery/zigzag-2-t__aruco-4__insta360-x5.jpg",
-    "size_bytes": 460900
+    "size_bytes": 445676,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "bookshelf01_2",
@@ -447,7 +476,8 @@
     "source_path": "bookshelf01_2/table/insight9_left_right_sync.mp4",
     "video": "assets/videos/gallery/bookshelf01-2__table__insight9.mp4",
     "poster": "assets/posters/gallery/bookshelf01-2__table__insight9.jpg",
-    "size_bytes": 107583
+    "size_bytes": 97466,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "bookshelf01_2",
@@ -462,7 +492,8 @@
     "source_path": "bookshelf01_2/table/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/bookshelf01-2__table__insta360-x5.mp4",
     "poster": "assets/posters/gallery/bookshelf01-2__table__insta360-x5.jpg",
-    "size_bytes": 147407
+    "size_bytes": 215348,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "bookshelf01_2",
@@ -477,7 +508,8 @@
     "source_path": "bookshelf01_2/apriltag_2/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/bookshelf01-2__apriltag-2__insta360-x5.mp4",
     "poster": "assets/posters/gallery/bookshelf01-2__apriltag-2__insta360-x5.jpg",
-    "size_bytes": 153331
+    "size_bytes": 203604,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "bookshelf01_2",
@@ -492,7 +524,8 @@
     "source_path": "bookshelf01_2/apriltag_4/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/bookshelf01-2__apriltag-4__insta360-x5.mp4",
     "poster": "assets/posters/gallery/bookshelf01-2__apriltag-4__insta360-x5.jpg",
-    "size_bytes": 160771
+    "size_bytes": 160116,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "bookshelf01_2",
@@ -507,7 +540,8 @@
     "source_path": "bookshelf01_2/aruco_2/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/bookshelf01-2__aruco-2__insta360-x5.mp4",
     "poster": "assets/posters/gallery/bookshelf01-2__aruco-2__insta360-x5.jpg",
-    "size_bytes": 212867
+    "size_bytes": 256388,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "bookshelf01_2",
@@ -522,7 +556,8 @@
     "source_path": "bookshelf01_2/aruco_4/insight9_left_right_sync.mp4",
     "video": "assets/videos/gallery/bookshelf01-2__aruco-4__insight9.mp4",
     "poster": "assets/posters/gallery/bookshelf01-2__aruco-4__insight9.jpg",
-    "size_bytes": 124558
+    "size_bytes": 148476,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "bookshelf01_2",
@@ -537,7 +572,8 @@
     "source_path": "bookshelf01_2/aruco_4/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/bookshelf01-2__aruco-4__insta360-x5.mp4",
     "poster": "assets/posters/gallery/bookshelf01-2__aruco-4__insta360-x5.jpg",
-    "size_bytes": 163740
+    "size_bytes": 169942,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "bookshelf02_2",
@@ -552,7 +588,8 @@
     "source_path": "bookshelf02_2/table/insight9_left_right_sync.mp4",
     "video": "assets/videos/gallery/bookshelf02-2__table__insight9.mp4",
     "poster": "assets/posters/gallery/bookshelf02-2__table__insight9.jpg",
-    "size_bytes": 160893
+    "size_bytes": 208875,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "bookshelf02_2",
@@ -567,7 +604,8 @@
     "source_path": "bookshelf02_2/table/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/bookshelf02-2__table__insta360-x5.mp4",
     "poster": "assets/posters/gallery/bookshelf02-2__table__insta360-x5.jpg",
-    "size_bytes": 251085
+    "size_bytes": 255388,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "bookshelf02_2",
@@ -582,7 +620,8 @@
     "source_path": "bookshelf02_2/tablecloth/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/bookshelf02-2__tablecloth__insta360-x5.mp4",
     "poster": "assets/posters/gallery/bookshelf02-2__tablecloth__insta360-x5.jpg",
-    "size_bytes": 199338
+    "size_bytes": 217143,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "bookshelf02_2",
@@ -597,7 +636,8 @@
     "source_path": "bookshelf02_2/apriltag_2/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/bookshelf02-2__apriltag-2__insta360-x5.mp4",
     "poster": "assets/posters/gallery/bookshelf02-2__apriltag-2__insta360-x5.jpg",
-    "size_bytes": 266737
+    "size_bytes": 262288,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "bookshelf02_2",
@@ -612,7 +652,8 @@
     "source_path": "bookshelf02_2/apriltag_4/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/bookshelf02-2__apriltag-4__insta360-x5.mp4",
     "poster": "assets/posters/gallery/bookshelf02-2__apriltag-4__insta360-x5.jpg",
-    "size_bytes": 265220
+    "size_bytes": 256977,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "bookshelf02_2",
@@ -627,7 +668,8 @@
     "source_path": "bookshelf02_2/aruco_2/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/bookshelf02-2__aruco-2__insta360-x5.mp4",
     "poster": "assets/posters/gallery/bookshelf02-2__aruco-2__insta360-x5.jpg",
-    "size_bytes": 248570
+    "size_bytes": 248557,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "bookshelf02_2",
@@ -642,7 +684,8 @@
     "source_path": "bookshelf02_2/aruco_4/insight9_left_right_sync.mp4",
     "video": "assets/videos/gallery/bookshelf02-2__aruco-4__insight9.mp4",
     "poster": "assets/posters/gallery/bookshelf02-2__aruco-4__insight9.jpg",
-    "size_bytes": 202449
+    "size_bytes": 236800,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "bookshelf02_2",
@@ -657,7 +700,8 @@
     "source_path": "bookshelf02_2/aruco_4/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/bookshelf02-2__aruco-4__insta360-x5.mp4",
     "poster": "assets/posters/gallery/bookshelf02-2__aruco-4__insta360-x5.jpg",
-    "size_bytes": 271798
+    "size_bytes": 264276,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "box01",
@@ -672,7 +716,8 @@
     "source_path": "box01/table/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/box01__table__insta360-x5.mp4",
     "poster": "assets/posters/gallery/box01__table__insta360-x5.jpg",
-    "size_bytes": 184455
+    "size_bytes": 231019,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "box01",
@@ -687,7 +732,8 @@
     "source_path": "box01/apriltag_4/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/box01__apriltag-4__insta360-x5.mp4",
     "poster": "assets/posters/gallery/box01__apriltag-4__insta360-x5.jpg",
-    "size_bytes": 197660
+    "size_bytes": 276839,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "box01",
@@ -702,7 +748,8 @@
     "source_path": "box01/aruco_4/insight9_left_right_sync.mp4",
     "video": "assets/videos/gallery/box01__aruco-4__insight9.mp4",
     "poster": "assets/posters/gallery/box01__aruco-4__insight9.jpg",
-    "size_bytes": 126830
+    "size_bytes": 142519,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "box01",
@@ -717,7 +764,8 @@
     "source_path": "box01/aruco_4/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/box01__aruco-4__insta360-x5.mp4",
     "poster": "assets/posters/gallery/box01__aruco-4__insta360-x5.jpg",
-    "size_bytes": 180019
+    "size_bytes": 210227,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "box02",
@@ -732,7 +780,8 @@
     "source_path": "box02/table/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/box02__table__insta360-x5.mp4",
     "poster": "assets/posters/gallery/box02__table__insta360-x5.jpg",
-    "size_bytes": 185378
+    "size_bytes": 238751,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "box02",
@@ -747,7 +796,8 @@
     "source_path": "box02/apriltag_4/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/box02__apriltag-4__insta360-x5.mp4",
     "poster": "assets/posters/gallery/box02__apriltag-4__insta360-x5.jpg",
-    "size_bytes": 195791
+    "size_bytes": 211165,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "box02",
@@ -762,7 +812,8 @@
     "source_path": "box02/aruco_4/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/box02__aruco-4__insta360-x5.mp4",
     "poster": "assets/posters/gallery/box02__aruco-4__insta360-x5.jpg",
-    "size_bytes": 185660
+    "size_bytes": 288892,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "grab_place01_t",
@@ -777,7 +828,8 @@
     "source_path": "grab_place01_t/table/insight9_left_right_sync.mp4",
     "video": "assets/videos/gallery/grab-place01-t__table__insight9.mp4",
     "poster": "assets/posters/gallery/grab-place01-t__table__insight9.jpg",
-    "size_bytes": 64237
+    "size_bytes": 63624,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "grab_place01_t",
@@ -792,7 +844,8 @@
     "source_path": "grab_place01_t/table/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/grab-place01-t__table__insta360-x5.mp4",
     "poster": "assets/posters/gallery/grab-place01-t__table__insta360-x5.jpg",
-    "size_bytes": 123857
+    "size_bytes": 139603,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "grab_place01_t",
@@ -807,7 +860,8 @@
     "source_path": "grab_place01_t/tablecloth/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/grab-place01-t__tablecloth__insta360-x5.mp4",
     "poster": "assets/posters/gallery/grab-place01-t__tablecloth__insta360-x5.jpg",
-    "size_bytes": 172027
+    "size_bytes": 210232,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "grab_place01_t",
@@ -822,7 +876,8 @@
     "source_path": "grab_place01_t/apriltag_4/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/grab-place01-t__apriltag-4__insta360-x5.mp4",
     "poster": "assets/posters/gallery/grab-place01-t__apriltag-4__insta360-x5.jpg",
-    "size_bytes": 123086
+    "size_bytes": 148648,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "grab_place01_t",
@@ -837,7 +892,8 @@
     "source_path": "grab_place01_t/aruco_4/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/grab-place01-t__aruco-4__insta360-x5.mp4",
     "poster": "assets/posters/gallery/grab-place01-t__aruco-4__insta360-x5.jpg",
-    "size_bytes": 124251
+    "size_bytes": 114344,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "grab_place02_t",
@@ -852,7 +908,8 @@
     "source_path": "grab_place02_t/table/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/grab-place02-t__table__insta360-x5.mp4",
     "poster": "assets/posters/gallery/grab-place02-t__table__insta360-x5.jpg",
-    "size_bytes": 119868
+    "size_bytes": 153043,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "grab_place02_t",
@@ -867,7 +924,8 @@
     "source_path": "grab_place02_t/tablecloth/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/grab-place02-t__tablecloth__insta360-x5.mp4",
     "poster": "assets/posters/gallery/grab-place02-t__tablecloth__insta360-x5.jpg",
-    "size_bytes": 176576
+    "size_bytes": 206510,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "grab_place02_t",
@@ -882,7 +940,8 @@
     "source_path": "grab_place02_t/apriltag_4/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/grab-place02-t__apriltag-4__insta360-x5.mp4",
     "poster": "assets/posters/gallery/grab-place02-t__apriltag-4__insta360-x5.jpg",
-    "size_bytes": 127362
+    "size_bytes": 119481,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "grab_place02_t",
@@ -897,7 +956,8 @@
     "source_path": "grab_place02_t/aruco_4/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/grab-place02-t__aruco-4__insta360-x5.mp4",
     "poster": "assets/posters/gallery/grab-place02-t__aruco-4__insta360-x5.jpg",
-    "size_bytes": 144526
+    "size_bytes": 147948,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "grab_place03_t",
@@ -912,7 +972,8 @@
     "source_path": "grab_place03_t/table/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/grab-place03-t__table__insta360-x5.mp4",
     "poster": "assets/posters/gallery/grab-place03-t__table__insta360-x5.jpg",
-    "size_bytes": 108235
+    "size_bytes": 132217,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "grab_place03_t",
@@ -927,7 +988,8 @@
     "source_path": "grab_place03_t/tablecloth/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/grab-place03-t__tablecloth__insta360-x5.mp4",
     "poster": "assets/posters/gallery/grab-place03-t__tablecloth__insta360-x5.jpg",
-    "size_bytes": 151164
+    "size_bytes": 153259,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "grab_place03_t",
@@ -942,7 +1004,8 @@
     "source_path": "grab_place03_t/apriltag_4/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/grab-place03-t__apriltag-4__insta360-x5.mp4",
     "poster": "assets/posters/gallery/grab-place03-t__apriltag-4__insta360-x5.jpg",
-    "size_bytes": 151684
+    "size_bytes": 152833,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "grab_place03_t",
@@ -957,7 +1020,8 @@
     "source_path": "grab_place03_t/aruco_4/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/grab-place03-t__aruco-4__insta360-x5.mp4",
     "poster": "assets/posters/gallery/grab-place03-t__aruco-4__insta360-x5.jpg",
-    "size_bytes": 130611
+    "size_bytes": 138419,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "grab_place04",
@@ -972,7 +1036,8 @@
     "source_path": "grab_place04/table/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/grab-place04__table__insta360-x5.mp4",
     "poster": "assets/posters/gallery/grab-place04__table__insta360-x5.jpg",
-    "size_bytes": 238545
+    "size_bytes": 263604,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "grab_place04",
@@ -987,7 +1052,8 @@
     "source_path": "grab_place04/apriltag_4/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/grab-place04__apriltag-4__insta360-x5.mp4",
     "poster": "assets/posters/gallery/grab-place04__apriltag-4__insta360-x5.jpg",
-    "size_bytes": 233014
+    "size_bytes": 262132,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "grab_place04",
@@ -1002,7 +1068,8 @@
     "source_path": "grab_place04/aruco_4/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/grab-place04__aruco-4__insta360-x5.mp4",
     "poster": "assets/posters/gallery/grab-place04__aruco-4__insta360-x5.jpg",
-    "size_bytes": 231194
+    "size_bytes": 278791,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "grab_place05",
@@ -1017,7 +1084,8 @@
     "source_path": "grab_place05/table/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/grab-place05__table__insta360-x5.mp4",
     "poster": "assets/posters/gallery/grab-place05__table__insta360-x5.jpg",
-    "size_bytes": 261047
+    "size_bytes": 348717,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "grab_place05",
@@ -1032,7 +1100,8 @@
     "source_path": "grab_place05/apriltag_4/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/grab-place05__apriltag-4__insta360-x5.mp4",
     "poster": "assets/posters/gallery/grab-place05__apriltag-4__insta360-x5.jpg",
-    "size_bytes": 235609
+    "size_bytes": 313325,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "grab_place05",
@@ -1047,7 +1116,8 @@
     "source_path": "grab_place05/aruco_4/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/grab-place05__aruco-4__insta360-x5.mp4",
     "poster": "assets/posters/gallery/grab-place05__aruco-4__insta360-x5.jpg",
-    "size_bytes": 252316
+    "size_bytes": 333405,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "grab_place06_t",
@@ -1062,7 +1132,8 @@
     "source_path": "grab_place06_t/table/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/grab-place06-t__table__insta360-x5.mp4",
     "poster": "assets/posters/gallery/grab-place06-t__table__insta360-x5.jpg",
-    "size_bytes": 322902
+    "size_bytes": 363600,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "grab_place06_t",
@@ -1077,7 +1148,8 @@
     "source_path": "grab_place06_t/tablecloth/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/grab-place06-t__tablecloth__insta360-x5.mp4",
     "poster": "assets/posters/gallery/grab-place06-t__tablecloth__insta360-x5.jpg",
-    "size_bytes": 466795
+    "size_bytes": 552314,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "grab_place06_t",
@@ -1092,7 +1164,8 @@
     "source_path": "grab_place06_t/apriltag_4/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/grab-place06-t__apriltag-4__insta360-x5.mp4",
     "poster": "assets/posters/gallery/grab-place06-t__apriltag-4__insta360-x5.jpg",
-    "size_bytes": 335550
+    "size_bytes": 324699,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "grab_place06_t",
@@ -1107,7 +1180,8 @@
     "source_path": "grab_place06_t/aruco_4/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/grab-place06-t__aruco-4__insta360-x5.mp4",
     "poster": "assets/posters/gallery/grab-place06-t__aruco-4__insta360-x5.jpg",
-    "size_bytes": 340421
+    "size_bytes": 411643,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "wiping01",
@@ -1122,7 +1196,8 @@
     "source_path": "wiping01/table/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/wiping01__table__insta360-x5.mp4",
     "poster": "assets/posters/gallery/wiping01__table__insta360-x5.jpg",
-    "size_bytes": 184777
+    "size_bytes": 304540,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "wiping01",
@@ -1137,7 +1212,8 @@
     "source_path": "wiping01/apriltag_4/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/wiping01__apriltag-4__insta360-x5.mp4",
     "poster": "assets/posters/gallery/wiping01__apriltag-4__insta360-x5.jpg",
-    "size_bytes": 148275
+    "size_bytes": 204386,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "wiping01",
@@ -1152,7 +1228,8 @@
     "source_path": "wiping01/aruco_4/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/wiping01__aruco-4__insta360-x5.mp4",
     "poster": "assets/posters/gallery/wiping01__aruco-4__insta360-x5.jpg",
-    "size_bytes": 154089
+    "size_bytes": 269357,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "wiping02_1",
@@ -1167,7 +1244,8 @@
     "source_path": "wiping02_1/table/insight9_left_right_sync.mp4",
     "video": "assets/videos/gallery/wiping02-1__table__insight9.mp4",
     "poster": "assets/posters/gallery/wiping02-1__table__insight9.jpg",
-    "size_bytes": 120331
+    "size_bytes": 117036,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "wiping02_1",
@@ -1182,7 +1260,8 @@
     "source_path": "wiping02_1/table/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/wiping02-1__table__insta360-x5.mp4",
     "poster": "assets/posters/gallery/wiping02-1__table__insta360-x5.jpg",
-    "size_bytes": 168947
+    "size_bytes": 213356,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "wiping02_1",
@@ -1197,7 +1276,8 @@
     "source_path": "wiping02_1/apriltag_1/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/wiping02-1__apriltag-1__insta360-x5.mp4",
     "poster": "assets/posters/gallery/wiping02-1__apriltag-1__insta360-x5.jpg",
-    "size_bytes": 126416
+    "size_bytes": 180576,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "wiping02_1",
@@ -1212,7 +1292,8 @@
     "source_path": "wiping02_1/apriltag_2/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/wiping02-1__apriltag-2__insta360-x5.mp4",
     "poster": "assets/posters/gallery/wiping02-1__apriltag-2__insta360-x5.jpg",
-    "size_bytes": 127774
+    "size_bytes": 156519,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "wiping02_1",
@@ -1227,7 +1308,8 @@
     "source_path": "wiping02_1/apriltag_4/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/wiping02-1__apriltag-4__insta360-x5.mp4",
     "poster": "assets/posters/gallery/wiping02-1__apriltag-4__insta360-x5.jpg",
-    "size_bytes": 202502
+    "size_bytes": 230261,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "wiping02_1",
@@ -1242,7 +1324,8 @@
     "source_path": "wiping02_1/aruco_1/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/wiping02-1__aruco-1__insta360-x5.mp4",
     "poster": "assets/posters/gallery/wiping02-1__aruco-1__insta360-x5.jpg",
-    "size_bytes": 152410
+    "size_bytes": 189769,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "wiping02_1",
@@ -1257,7 +1340,8 @@
     "source_path": "wiping02_1/aruco_2/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/wiping02-1__aruco-2__insta360-x5.mp4",
     "poster": "assets/posters/gallery/wiping02-1__aruco-2__insta360-x5.jpg",
-    "size_bytes": 139572
+    "size_bytes": 173923,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "wiping02_1",
@@ -1272,7 +1356,8 @@
     "source_path": "wiping02_1/aruco_4/insight9_left_right_sync.mp4",
     "video": "assets/videos/gallery/wiping02-1__aruco-4__insight9.mp4",
     "poster": "assets/posters/gallery/wiping02-1__aruco-4__insight9.jpg",
-    "size_bytes": 126216
+    "size_bytes": 123397,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   },
   {
     "task_slug": "wiping02_1",
@@ -1287,6 +1372,7 @@
     "source_path": "wiping02_1/aruco_4/insta360_x5_front_back_sync.mp4",
     "video": "assets/videos/gallery/wiping02-1__aruco-4__insta360-x5.mp4",
     "poster": "assets/posters/gallery/wiping02-1__aruco-4__insta360-x5.jpg",
-    "size_bytes": 198821
+    "size_bytes": 206198,
+    "privacy_filter": "opencv-haar-face-mosaic-v1"
   }
 ]
